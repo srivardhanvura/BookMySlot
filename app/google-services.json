@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "988936012368",
+    "firebase_url": "https://bookmyslot-bd867-default-rtdb.firebaseio.com",
+    "project_id": "bookmyslot-bd867",
+    "storage_bucket": "bookmyslot-bd867.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988936012368:android:4f1cc0771365463ebfc755",
+        "android_client_info": {
+          "package_name": "com.itt.bookmyslot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988936012368-4amb1v7bandbjcbsjtadt8aatmpdiha5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itt.bookmyslot",
+            "certificate_hash": "7951231df05141cdba12d7867cfdeb9f2142defe"
+          }
+        },
+        {
+          "client_id": "988936012368-48oquh85k92rkbqoqo9gdii9unl8vb5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC627mNzufJdKXZh1nPfBYS8M_5vC956Nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988936012368-48oquh85k92rkbqoqo9gdii9unl8vb5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

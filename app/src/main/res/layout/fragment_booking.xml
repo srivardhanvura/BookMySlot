@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+
+    <Spinner
+        android:id="@+id/grdTypeSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="40dp" />
+
+    <Spinner
+        android:id="@+id/grdNameSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/grdTypeSpinner"
+        android:layout_centerHorizontal="true"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="20dp"
+        android:visibility="gone" />
+
+    <ListView
+        android:id="@+id/list_booking"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/grdNameSpinner"
+        android:layout_marginHorizontal="5dp"
+        android:layout_marginTop="54dp" />
+
+    <Button
+        android:id="@+id/submit_booking"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/list_booking"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginTop="20dp"
+        android:text="Submit"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/colorAccent"
+        android:textAllCaps="false"
+        android:visibility="gone" />
+
+</RelativeLayout>

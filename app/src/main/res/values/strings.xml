@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BookMySlot</string>
+    <string name="navigation_open">Open navigation drawer</string>
+    <string name="navigation_close">Close navigation drawer</string>
+    <string name="abstract_text">BookMySlot is a full-stack slot and resource booking website with additional features like self-covid assessment and many other personalized features. This website is basically for students of MIT to allow them to book slots beforehand during this pandemic to avoid over-crowding and have an efficient sports resource allocator. This will also allow interested people to donate money. This website will have user friendly UX and clean UI.</string>
+    <string name="tech_text">1. Java for back-end\n2.XML for front-end\n3.Firebase realtime database\n4.Razorpay for payment gateway\n5.covid19india.org for API</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="question_1">Have you been in close contact with a confirmed case of coronavirus?</string>
+    <string name="question_2">Are you currently experiencing symptoms (cough, shortness of breath, fever)</string>
+    <string name="question_3">"Have you been tested for COVID-19 and are waiting to receive test results? "</string>
+    <string name="title_1">Welcome to BookMySlot</string>
+    <string name="title_2">Welcome to BookMySlot</string>
+    <string name="desc_1">App description</string>
+    <string name="desc_2">App description</string>
+
+</resources>

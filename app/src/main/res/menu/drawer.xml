@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home_menu"
+            android:checked="true"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/booking_menu"
+            android:icon="@drawable/ic_booking"
+            android:title="Bookings" />
+
+        <item
+            android:id="@+id/donate_menu"
+            android:icon="@drawable/ic_donate"
+            android:title="Donation" />
+
+
+        <item
+            android:id="@+id/previous_menu"
+            android:icon="@drawable/ic_previous_booking"
+            android:title="Previous bookings" />
+
+        <item
+            android:id="@+id/prev_donation_menu"
+            android:icon="@drawable/ic_previous_booking"
+            android:title="Previous Donations" />
+
+        <item
+            android:id="@+id/covid_menu"
+            android:icon="@drawable/ic_previous_booking"
+            android:title="Covid-19" />
+
+        <item
+            android:id="@+id/about_menu"
+            android:icon="@drawable/ic_about"
+            android:title="About us" />
+
+    </group>
+
+</menu>
