@@ -13,5 +13,7 @@
     <string name="title_2">Welcome to BookMySlot</string>
     <string name="desc_1">App description</string>
     <string name="desc_2">App description</string>
+    <string name="about_the_app">About the app</string>
+    <string name="resources_used">Resources used</string>
 
 </resources>
